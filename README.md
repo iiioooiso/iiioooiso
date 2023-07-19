@@ -1,8 +1,8 @@
-- 👋 Hi, 
-- 👀 I’m interested in you
-- 🌱 I’m currently learning c/c++/java/python/ blah..blha
-- 💞️ I’m looking to collaborate on microsoft
-- 📫 How to reach me ig : @iiioooiso
+- 👋 Hi, Buddy
+- 👀  interested in developing 
+- 🌱 I’m currently learning              c/c++/java/python/ blah..blha
+- 💞️ Google 
+- 📫#iiioooiso 
 - 
 
 <!---
