@@ -54,10 +54,7 @@
 
 <p align="left">
   <a href="https://github.com/iiioooiso/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=github_dark" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=github_dark" />
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=github_dark](https://github.com/iiioooiso/WildLife-Log-Processor)" />
   </a>
 </p>
 
