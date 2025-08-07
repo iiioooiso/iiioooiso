@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/iiioooiso">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+    <img src="https://komarev.com/ghpvc/?username=iiioooiso&label=Profile%20views&color=0e75b6&style=flat" alt="iiioooiso" />
   </a>
   <a href="mailto:ashutoshrajput8642@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -37,15 +37,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" alt="your stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iiioooiso&show_icons=true&theme=github_dark&hide_border=true" alt="your stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiioooiso&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiioooiso&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 <p align="left">
   <a href="https://github.com/iiioooiso/project1">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=github_dark](https://github.com/iiioooiso/WildLife-Log-Processor)" />
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=iiioooiso&repo=project1&theme=github_dark](https://github.com/iiioooiso/WildLife-Log-Processor)" />
   </a>
 </p>
 
