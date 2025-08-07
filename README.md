@@ -53,7 +53,7 @@
 ### Featured Projects
 
 <p align="left">
-  <a href="https://github.com/iiioooiso/project1">
+  <a href="[https://github.com/iiioooiso/project1](https://github.com/iiioooiso/WildLife-Log-Processor)">
     <img src="https://github.com/iiioooiso/WildLife-Log-Processor" />
   </a>
 </p>
