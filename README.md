@@ -40,9 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iiioooiso&show_icons=true&theme=github_dark&hide_border=true" alt="your stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiioooiso&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiioooiso&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
