@@ -3,7 +3,7 @@
 <p align="center"> Computer Science Student</p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/iiioooiso">
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
   </a>
   <a href="mailto:ashutoshrajput8642@gmail.com">
@@ -21,14 +21,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently studying **[Your Major]** at **[Your University]**
-- 💻 I enjoy working on **[short description of your focus, e.g., web apps, ML models]**
-- 🚀 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Tech you’re learning now]**
-- 📫 Reach me: [youremail@example.com](mailto:youremail@example.com)
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [something fun about you]
-
+- 🎓 I'm currently studying **Data Science** at **IIIT-N**
+- 💻 I enjoy working on **Web apps, ML models]**
+- 📫 Reach me: [youremail@example.com](mailto:ashutoshrajput8642@gmail.com)
 ---
 
 ### 🛠️ Skills
@@ -55,10 +50,10 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <p align="left">
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/iiioooiso/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=github_dark" />
   </a>
   <a href="https://github.com/yourusername/project2">
@@ -68,27 +63,13 @@
 
 ---
 
-### 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourinstagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🐍 GitHub Activity Snake
+###  GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/iiioooiso/iiioooiso/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
