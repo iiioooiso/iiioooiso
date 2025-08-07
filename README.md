@@ -19,14 +19,14 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 - 🎓 I'm currently studying **Data Science** at **IIIT-N**
 - 💻 I enjoy working on **Web apps, ML models]**
 - 📫 Reach me: [youremail@example.com](mailto:ashutoshrajput8642@gmail.com)
 ---
 
-### 🛠️ Skills
+### Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,python,java,cpp,git,github,docker,linux" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iiioooiso&show_icons=true&theme=github_dark&hide_border=true" alt="your stats" />
@@ -54,19 +54,7 @@
 
 <p align="left">
   <a href="https://github.com/iiioooiso/project1">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=iiioooiso&repo=project1&theme=github_dark](https://github.com/iiioooiso/WildLife-Log-Processor)" />
+    <img src="https://github.com/iiioooiso/WildLife-Log-Processor" />
   </a>
 </p>
 
----
-
-
-</p>
-
----
-
-###  GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iiioooiso/iiioooiso/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
