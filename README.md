@@ -1,6 +1,6 @@
 <!-- Banner / Introduction -->
-<h1 align="center">Hi there 👋, I'm Ashutosh singh</h1>
-<h3 align="center">A passionate [Your Title, e.g. Full-Stack Developer / Computer Science Student] from [Country]</h3>
+<h3 align="center">Hi there 👋, I'm Ashutosh singh</h1>
+<p align="center"> Computer Science Student</p>
 
 <p align="center">
   <a href="https://github.com/yourusername">
