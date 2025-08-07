@@ -9,7 +9,7 @@
   <a href="mailto:ashutoshrajput8642@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/ashutosh-singh-350b33291/)">
+  <a href="https://www.linkedin.com/in/ashutosh-singh-350b33291/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
