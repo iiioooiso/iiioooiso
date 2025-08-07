@@ -22,7 +22,7 @@
 ### About Me
 
 - 🎓 I'm currently studying **Data Science** at **IIIT-N**
-- 💻 I enjoy working on **Web apps, ML models]**
+- 💻 I enjoy working on **Web apps, ML models**
 - 📫 Reach me: ashutoshrajput8642@gmail.com
 ---
 
