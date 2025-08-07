@@ -1,5 +1,5 @@
 <!-- Banner / Introduction -->
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Ashutosh singh</h1>
 <h3 align="center">A passionate [Your Title, e.g. Full-Stack Developer / Computer Science Student] from [Country]</h3>
 
 <p align="center">
