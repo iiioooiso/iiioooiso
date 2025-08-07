@@ -23,7 +23,7 @@
 
 - 🎓 I'm currently studying **Data Science** at **IIIT-N**
 - 💻 I enjoy working on **Web apps, ML models]**
-- 📫 Reach me: [youremail@example.com](mailto:ashutoshrajput8642@gmail.com)
+- 📫 Reach me: ashutoshrajput8642@gmail.com
 ---
 
 ### Skills
