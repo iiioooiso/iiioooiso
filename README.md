@@ -6,9 +6,10 @@
   <a href="https://github.com/iiioooiso">
     <img src="https://komarev.com/ghpvc/?username=iiioooiso&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="mailto:ashutoshrajput8642@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashutoshrajput8642@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
   <a href="https://www.linkedin.com/in/ashutosh-singh-350b33291/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
