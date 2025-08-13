@@ -2,7 +2,7 @@
 <h3 align="center">Hi there 👋, I'm Ashutosh Singh</h3>
 <p align="center">Computer Science Student</p>
 
-<p align="center">
+<p align="center" style="pointer-events:auto;">
   <a href="https://github.com/iiioooiso">
     <img src="https://komarev.com/ghpvc/?username=iiioooiso&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
