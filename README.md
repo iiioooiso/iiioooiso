@@ -13,9 +13,9 @@
   <a href="https://www.linkedin.com/in/ashutosh-singh-350b33291/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+<!--   <a href="https://yourportfolio.com">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
