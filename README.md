@@ -10,7 +10,7 @@ Data Science Student • IIIT Nagpur • Artificial Intelligence • Machine Lea
 <img src="https://komarev.com/ghpvc/?username=iiioooiso&label=Profile+Views&color=58A6FF&style=flat-square"/>
 </p>
 
----
+
 
 ## Connect
 
@@ -28,7 +28,7 @@ Data Science Student • IIIT Nagpur • Artificial Intelligence • Machine Lea
 </a>
 </p>
 
----
+
 
 ## About
 
@@ -38,7 +38,7 @@ Focused on Machine Learning, backend engineering and modern web systems
 Interested in Generative AI, MLOps and scalable intelligent applications
 ```
 
----
+
 
 ## Core Tech Stack
 
@@ -46,7 +46,6 @@ Interested in Generative AI, MLOps and scalable intelligent applications
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,java,react,nextjs,nodejs,express,mongodb,postgres,docker,linux,git,github&perline=8"/>
 </p>
 
----
 
 ## AI and Machine Learning
 
@@ -59,7 +58,7 @@ Interested in Generative AI, MLOps and scalable intelligent applications
 <img src="https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF"/>
 </p>
 
----
+
 
 ## GitHub Statistics
 
@@ -72,7 +71,7 @@ Interested in Generative AI, MLOps and scalable intelligent applications
 <img src="https://streak-stats.demolab.com?user=iiioooiso&theme=github-dark-blue&hide_border=true"/>
 </p>
 
----
+
 
 ## Featured Project
 
@@ -82,7 +81,6 @@ Interested in Generative AI, MLOps and scalable intelligent applications
 </a>
 </p>
 
----
 
 ## Current Focus
 
