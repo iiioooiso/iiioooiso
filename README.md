@@ -1,7 +1,5 @@
-<!-- ================= HEADER ================= -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=3000&color=58A6FF&center=true&vCenter=true&width=750&lines=Ashutosh+Singh;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack;Building+Scalable+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=3000&color=58A6FF&center=true&vCenter=true&width=750&lines=Ashutosh+Singh;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack" />
 </h1>
 
 <p align="center">
@@ -36,8 +34,8 @@ Data Science Student • IIIT Nagpur • Artificial Intelligence • Machine Lea
 
 ```
 Artificial Intelligence and Data Science student at IIIT Nagpur
-Focused on Machine Learning, scalable backend systems and modern web platforms
-Interested in GenAI, MLOps, and intelligent product engineering
+Focused on Machine Learning, backend engineering and modern web systems
+Interested in Generative AI, MLOps and scalable intelligent applications
 ```
 
 ---
@@ -50,7 +48,7 @@ Interested in GenAI, MLOps, and intelligent product engineering
 
 ---
 
-## AI / ML Ecosystem
+## AI and Machine Learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=58A6FF"/>
@@ -70,28 +68,8 @@ Interested in GenAI, MLOps, and intelligent product engineering
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiioooiso&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
-
-## Contribution Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=iiioooiso&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## Activity Graph (Improved UI)
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iiioooiso&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
-## Stars and Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iiioooiso&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -106,27 +84,16 @@ Interested in GenAI, MLOps, and intelligent product engineering
 
 ---
 
-## Development Focus
+## Current Focus
 
 ```yaml
 Artificial Intelligence
 Machine Learning Systems
 TypeScript Full Stack Development
 Generative AI Applications
-MLOps and Deployment
 System Design
 ```
 
----
-
-## Quote
-
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
-
-<p align="center">
-Engineering intelligent systems with clean architecture and scalable AI solutions
+Engineering intelligent systems with scalable architecture
 </p>
