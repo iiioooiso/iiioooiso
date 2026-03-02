@@ -10,11 +10,14 @@ Data Science Student • IIIT Nagpur • Artificial Intelligence • Machine Lea
 <img src="https://komarev.com/ghpvc/?username=iiioooiso&label=Profile+Views&color=58A6FF&style=flat-square"/>
 </p>
 
-
-
 ## Connect
 
 <p align="center">
+
+<a href="https://vercel.com/ashus-projects-4ff5cab9/portfolio-tv12">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
+</a>
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashutoshrajput8642@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
 </a>
@@ -26,26 +29,18 @@ Data Science Student • IIIT Nagpur • Artificial Intelligence • Machine Lea
 <a href="https://github.com/iiioooiso">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
+
 </p>
 
-
-
 ## About
-
-```
 Artificial Intelligence and Data Science student at IIIT Nagpur
 Focused on Machine Learning, backend engineering and modern web systems
 Interested in Generative AI, MLOps and scalable intelligent applications
-```
-
-
-
 ## Core Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,java,react,nextjs,nodejs,express,mongodb,postgres,docker,linux,git,github&perline=8"/>
 </p>
-
 
 ## AI and Machine Learning
 
@@ -58,13 +53,12 @@ Interested in Generative AI, MLOps and scalable intelligent applications
 <img src="https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF"/>
 </p>
 
-
 ## GitHub Statistics
-
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=iiioooiso&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
+
 ## Featured Project
 
 <p align="center">
@@ -72,7 +66,6 @@ Interested in Generative AI, MLOps and scalable intelligent applications
 <img src="https://img.shields.io/badge/WildLife_Log_Processor-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 </p>
-
 
 ## Current Focus
 
@@ -82,8 +75,5 @@ Machine Learning Systems
 TypeScript Full Stack Development
 Generative AI Applications
 System Design
+<p align="center"> Engineering intelligent systems with scalable architecture </p>
 ```
-
-<p align="center">
-Engineering intelligent systems with scalable architecture
-</p>
