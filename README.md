@@ -14,7 +14,7 @@ Data Science Student • IIIT Nagpur • Artificial Intelligence • Machine Lea
 
 <p align="center">
 
-<a href="[https://vercel.com/ashus-projects-4ff5cab9/portfolio-tv12](https://portfolio-tv12.vercel.app/)">
+<a href="https://portfolio-tv12.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
 </a>
 
