@@ -1,68 +1,64 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ashutosh+Singh;AI+%7C+Machine+Learning+%7C+Full+Stack+Developer;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=3000&color=58A6FF&center=true&vCenter=true&width=750&lines=Ashutosh+Singh;AI+Engineer+%7C+ML+Developer+%7C+Full+Stack;Building+Scalable+Intelligent+Systems" />
 </h1>
 
 <p align="center">
-Computer Science Student | Data Science @ IIIT Nagpur
+Data Science Student • IIIT Nagpur • Artificial Intelligence • Machine Learning
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iiioooiso&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=iiioooiso&label=Profile+Views&color=58A6FF&style=flat-square"/>
 </p>
 
 ---
 
-## Socials
+## Connect
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashutoshrajput8642@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashutoshrajput8642@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/ashutosh-singh-350b33291/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-  </a>
+<a href="https://www.linkedin.com/in/ashutosh-singh-350b33291/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
 
-  <a href="https://github.com/iiioooiso">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-  </a>
+<a href="https://github.com/iiioooiso">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
 </p>
 
 ---
 
-## About Me
+## About
 
 ```
-Data Science Student at IIIT Nagpur
-Focused on Artificial Intelligence and Machine Learning
-Full Stack Web Developer
-Building scalable AI powered applications
+Artificial Intelligence and Data Science student at IIIT Nagpur
+Focused on Machine Learning, scalable backend systems and modern web platforms
+Interested in GenAI, MLOps, and intelligent product engineering
 ```
-
-- Working on Machine Learning systems and Web Applications  
-- Exploring Generative AI, Deep Learning and MLOps  
-- Contact: ashutoshrajput8642@gmail.com  
 
 ---
 
-## Tech Stack
+## Core Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,docker,linux,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,java,react,nextjs,nodejs,express,mongodb,postgres,docker,linux,git,github&perline=8"/>
 </p>
 
 ---
 
-## AI and ML Focus
+## AI / ML Ecosystem
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&logo=tensorflow&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-111111?style=for-the-badge&logo=pytorch&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111111?style=for-the-badge&logo=opencv&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/NLP-111111?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Generative%20AI-111111?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF"/>
 </p>
 
 ---
@@ -70,8 +66,8 @@ Building scalable AI powered applications
 ## GitHub Statistics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iiioooiso&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiioooiso&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iiioooiso&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiioooiso&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -79,15 +75,23 @@ Building scalable AI powered applications
 ## Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=iiioooiso&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=iiioooiso&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-## Activity Graph
+## Activity Graph (Improved UI)
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iiioooiso&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iiioooiso&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+## Stars and Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iiioooiso&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -96,32 +100,33 @@ Building scalable AI powered applications
 
 <p align="center">
 <a href="https://github.com/iiioooiso/WildLife-Log-Processor">
-<img src="https://img.shields.io/badge/WildLife%20Log%20Processor-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/WildLife_Log_Processor-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 </p>
 
 ---
 
-## Currently Learning
+## Development Focus
 
 ```yaml
-Artificial Intelligence Systems
-Generative AI
-MLOps
+Artificial Intelligence
+Machine Learning Systems
+TypeScript Full Stack Development
+Generative AI Applications
+MLOps and Deployment
 System Design
-Advanced React
 ```
 
 ---
 
-## Development Quote
+## Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 ---
 
 <p align="center">
-Building intelligent systems through AI and scalable engineering
+Engineering intelligent systems with clean architecture and scalable AI solutions
 </p>
